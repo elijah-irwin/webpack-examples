@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'MyFont';
+  src: url('./Katherine-Free.otf') format('opentype');
+}
+
+.hello {
+  color: red;
+  font-family: 'MyFont';
+  font-size: 90px;
+  background: url('./icon.png');
+}
+
