@@ -14,4 +14,13 @@ Prevent Duplication: aka use the 'SplitChunksPlugin' to dedupe and split chunks
 Dynamic Imports: aka split code via inline function calls within modules
 --> idk much about this one tbh
 
+Also Prefetching/Preloading modules as of webpack@4.6.0+
+--> inline directives
+
+Prefetch: resource prob needed for some navigation in future
+Preload: resource might be needed during current navigation
+
+
+
+
 More Info: https://webpack.js.org/guides/code-splitting
